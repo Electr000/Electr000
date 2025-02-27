@@ -21,13 +21,3 @@
     <img src="https://img.shields.io/badge/Powershell-000?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
-<!-- Minimalistic GitHub Stats -->
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Electr000&show_icons=true&theme=transparent&icon_color=white&text_color=aaa" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electr000&layout=compact&theme=transparent&text_color=aaa" />
-</p>
-
-<!-- Minimalistic Contribution Graph -->
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Electr000&theme=github-light" />
-</p>
