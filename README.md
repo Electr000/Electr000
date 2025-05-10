@@ -6,9 +6,10 @@
 <!-- Minimalistic TryHackMe Badge -->
 <p align="center">
     <a href="https://tryhackme.com/p/Electr000">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/Electr000.png" alt="TryHackMe" style="border-radius: 10px;" />
+        <<img src="https://tryhackme-badges.s3.amazonaws.com/Electr000.png" alt="Tryhackme" style="border-radius: 10px;" />
     </a>
-</p>
+</p> />
+
 
 <!-- Minimalistic Skill Badges -->
 <p align="center">
